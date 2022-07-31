@@ -1,6 +1,6 @@
-##ContactsBook (PHP & MySQL Project)
+## ContactsBook (PHP & MySQL Project)
 
-######Features:
+###### Features:
 
 - PHP and MySQL project for beginners
 - User Registration and Login
@@ -11,7 +11,7 @@
 
 ---
 
-#####Steps to setup Project localy:
+##### Steps to setup Project localy:
 
 - Create **contactsbook** directory in your local system
 - clone the poject in contactsbook directory
